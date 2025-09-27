@@ -22,12 +22,6 @@ The dashboard provides insights into sales performance, revenue trends, and cust
 
 ---
 
-## 📸 Dashboard Preview
-
-![Sales Dashboard Preview](screenshots/sales-dashboard.png)
-
----
-
 ## 📊 Key Insights
 - Total Sales, Profit, and Discount KPIs.  
 - Monthly/Yearly Sales Trends.  
